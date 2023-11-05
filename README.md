@@ -21,5 +21,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
 
-![snake gif](https://github.com/NataliTrindade/NataliTrindade/raw/main/dist/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/NataliTrindade/NataliTrindade/blob/output/github-contribution-grid-snake.svg)
 
